@@ -1,1 +1,1 @@
-<img src="https://drive.google.com/file/d/1Te4Pxc_9y7Js1ins8GOPlF3uKaExRU9y/view?usp=sharing"/>
+<img src="https://github.com/aryantyagi0/NewsApp/blob/main/Screenshot%20(371).png"/>
